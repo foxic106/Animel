@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+h2 {
+    border: 10px double blue;
+    padding: 10px;
+    border-radius: 30px;
+    
+}
+ul {
+    list-style: url("");
+}
+img {
+    Width: 500px
+}
